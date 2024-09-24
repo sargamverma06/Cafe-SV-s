@@ -1,4 +1,4 @@
-# ☕ Cafe SV's  App 
+# ![icon](https://github.com/user-attachments/assets/eefaea87-c2d9-4b67-9d11-747d09d038b6) Cafe SV's  App 
 
 Welcome to **Cafe SV's**! This mobile app enhances the customer experience at **Cafe SV's** by allowing users to easily browse the menu, explore drink details, and place orders directly from their mobile devices. Built with a focus on simplicity, efficiency, and real-time updates, SV Cafe App brings the café experience right to your fingertips.
 
@@ -41,6 +41,10 @@ Welcome to **Cafe SV's**! This mobile app enhances the customer experience at **
 5. **Logout**: Securely log out when you're done.
 
 ---
+
+## Screenshots
+![Untitled design (1)](https://github.com/user-attachments/assets/b3d97939-b867-4785-877c-5187b60ae518)
+
 
 ## 🛠️ Technologies Used
 
