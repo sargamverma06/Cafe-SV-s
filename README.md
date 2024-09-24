@@ -45,7 +45,7 @@ Welcome to **Cafe SV's**! This mobile app enhances the customer experience at **
 ## 📸 Screenshots
 ![Untitled design (1)](https://github.com/user-attachments/assets/b3d97939-b867-4785-877c-5187b60ae518)
 
-
+---
 ## 🛠️ Technologies Used
 
 - **Programming Language**: Kotlin 
