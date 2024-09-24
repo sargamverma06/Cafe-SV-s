@@ -4,23 +4,31 @@ Welcome to **Cafe SV's**! This mobile app enhances the customer experience at **
 
 ---
 
+## 📖 Table of Contents
+- [🌟 Features](#-features)
+- [🎯 User Flow](#-user-flow)
+- [🛠️ Technologies Used](#-technologies-used)
+- [📸 Screenshots](#-screenshots)
+- [📖 Conclusion](#-conclusion)
+---
+
 ## 🌟 Features
 
-- **🚀 Splash Screen**: Start the app with a welcoming splash screen showcasing SV Cafe's logo.
-- **🔐 User Authentication**:
+- **Splash Screen**: Start the app with a welcoming splash screen showcasing SV Cafe's logo.
+- **User Authentication**:
   - **Sign-Up & Login**: Secure account creation and login.
   - **Profile Management**: Personalized home screen greeting using the user's name.
-- **🔍 Search & Browse**: Quickly find your favorite drinks using the search bar.
-- **🥤 Dynamic Drink Menu**:
+- **Search & Browse**: Quickly find your favorite drinks using the search bar.
+- **Dynamic Drink Menu**:
   - Real-time menu updates via Firebase.
   - Browse drinks with detailed descriptions and pricing.
-- **💥 Promotions & Featured Items**: Horizontal scroll of special deals and popular drinks.
-- **🛒 Cart & Checkout**:
+- **Promotions & Featured Items**: Horizontal scroll of special deals and popular drinks.
+- **Cart & Checkout**:
   - Add items to your cart.
   - Manage quantities, view total cost, and place orders.
   - Seamless and secure checkout process.
-- **📱 Responsive Design**: Works smoothly in both portrait and landscape orientations.
-- **🔄 Real-Time Data Sync**: Firebase integration ensures accurate, up-to-date information.
+- **Responsive Design**: Works smoothly in both portrait and landscape orientations.
+- **Real-Time Data Sync**: Firebase integration ensures accurate, up-to-date information.
 
 ---
 
@@ -36,10 +44,10 @@ Welcome to **Cafe SV's**! This mobile app enhances the customer experience at **
 
 ## 🛠️ Technologies Used
 
-- **Programming Language**: Kotlin ☕
-- **Backend**: Firebase 🔥
-- **API Integration**: Retrofit 🌐
-- **UI Design**: XML layouts 🎨
+- **Programming Language**: Kotlin 
+- **Backend**: Firebase 
+- **API Integration**: Retrofit 
+- **UI Design**: XML layouts 
 
 ---
 
