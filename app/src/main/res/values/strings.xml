@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SVCafe</string>
+    <string name="splash_screen_logo">Cafe SV\'s Logo</string>
+    <string name="welcome">Welcome to Cafe SV\'s</string>
+    <string name="Welcome_description">Your cozy place to unwind and enjoy a cup of coffee</string>
+    <string name="login">Login</string>
+    <string name="signUp">Sign Up</string>
+    <string name="signOut">Sign Out</string>
+    <string name="register">Register</string>
+    <string name="logo_description">logo</string>
+    <string name="logo">logo_description</string>
+</resources>

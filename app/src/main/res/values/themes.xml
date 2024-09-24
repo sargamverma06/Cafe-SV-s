@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SVCafe" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/DarkBlue</item> -->
+    </style>
+
+    <style name="Theme.SVCafe" parent="Base.Theme.SVCafe" />
+    <style name="Theme.App.SVCafe" parent="Theme.SVCafe">
+        <item name="windowSplashScreenBackground">@color/DarkBlue2</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/cafe_svs_logo</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.SVCafe</item>
+    </style>
+</resources>
